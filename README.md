@@ -9,7 +9,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Development  at Techcamp .\
-🌱 &nbsp;I'm on track for learning more about Creating softwares .\
+🌱 &nbsp;I'm on track for learning more about  softwares and how it cam suit mankind .\
 ✍️ &nbsp;I also study at Kiambu Institute of Science and Technology doing Information Communication and Technology .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Steveleo254@gmail.com I'll try to respond as soon as I can.\
@@ -56,7 +56,7 @@
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/leo-muthure-617b2726b/"><img src="https://img.shields.io/badge/-Leo_Muthure-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-steveleo254@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="steveleo254@gmail.com"><img src="https://img.shields.io/badge/-steveleo254@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vostih_/"><img src="https://img.shields.io/badge/-SteveLeon-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/vostih.machwadez/"><img src="https://img.shields.io/badge/Steve Leon-E4405F?style=flat&logo=facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.com/leomuthure/"><img src="https://img.shields.io/badge/-Leo_Muthure-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
