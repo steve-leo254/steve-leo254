@@ -1,7 +1,7 @@
 
 <h1>LEO STEVE MUTHURE</h1>
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2>Hey there! I'm Steve 🤭</h2>
+<h2>Hey there! I'm Steve 🤭</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
@@ -55,10 +55,9 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/leo-muthure-617b2726b/"><img src="https://img.shields.io/badge/-Leo_Muthure-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-steveleo254@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/vostih.machwadez/"><img src="https://img.shields.io/badge/@adityavs__-E4405F?style=flat&logo=facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.instagram.com/vostih_/"><img src="https://img.shields.io/badge/-SteveLeon-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/vostih.machwadez/"><img src="https://img.shields.io/badge/Steve Leon-E4405F?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.com/leomuthure/"><img src="https://img.shields.io/badge/-Leo_Muthure-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
