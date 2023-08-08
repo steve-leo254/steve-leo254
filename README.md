@@ -10,7 +10,7 @@
 💡 &nbsp;I like to explore new technologies and develop problem solving softwares  and quick hacks.\
 🎓 &nbsp;I'm currently studying Software Development  at Techcamp .\
 🌱 &nbsp;I'm on track for learning more about  softwares and how it can suit mankind .\
-✍️ &nbsp;I also study at Kiambu Institute of Science and Technology doing Information Communication and Technology .\
+✍️ &nbsp;I also study at Kiambu Institute of Science and Technology doing Information and communications technology .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at Steveleo254@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]((https://steveleoprof.netlify.app/)) for more details about me. I'm open to feedback and suggestions! or even bantas☺️
