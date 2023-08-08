@@ -54,7 +54,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://steveleoprof.netlify.app/"><img src="https://img.shields.io/badge/-steveleoprof.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/leo-muthure-617b2726b/"><img src="https://img.shields.io/badge/-Leo_Muthure-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="steveleo254@gmail.com"><img src="https://img.shields.io/badge/-steveleo254@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/vostih_/"><img src="https://img.shields.io/badge/-SteveLeon-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
