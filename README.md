@@ -1,7 +1,7 @@
 
 <h1>LEO STEVE MUTHURE</h1>
 
-<h2>Hey there! I'm Steve 🤭 You?</h2>
+<h2>Hey there! I'm Steve 😊 You?</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
