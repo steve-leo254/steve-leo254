@@ -1,7 +1,7 @@
 
 <h1>Code. Create. Innovate. 👨‍💻</h1>
 
-<h2>Hey there! I'm Steve 😊 Welcome! <br> & here is where the magic happens </h2>
+<h2>Hey there! I'm Steve 😊 Welcome! <br> Here is where the magic happens. </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
